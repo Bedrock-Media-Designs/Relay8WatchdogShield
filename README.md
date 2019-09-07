@@ -19,7 +19,9 @@ The design is saved as an EAGLE project. EAGLE PCB design software is available 
 
  ## CREDITS
 Designed by: 
+
 Jonathan Oxer jon@oxer.com.au (Protoshort Layout for EtherTen)
+
 James Kennewell james@bedrockmediaproductions.com.au (circuit design)
 
 ## DISTRIBUTION
